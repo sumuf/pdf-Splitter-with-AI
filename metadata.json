@@ -1,0 +1,5 @@
+{
+  "name": "Local PDF Splitter",
+  "description": "Securely split and organize PDF pages entirely in your browser. No uploads, instant processing.",
+  "requestFramePermissions": []
+}
